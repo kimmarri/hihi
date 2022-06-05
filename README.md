@@ -55,7 +55,7 @@
 
 * Running :작업이 진행중임
 * Done :작업이 완료되어 0변환
-* * Stopped :작업이 일시중단
+* Stopped :작업이 일시중단
 * Stopped [ ] :[ ]작업이 일시중단
 
 ---
